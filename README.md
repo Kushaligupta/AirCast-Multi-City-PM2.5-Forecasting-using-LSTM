@@ -90,10 +90,13 @@ LSTM networks are specifically designed to:
 ---
 
 ## 📌 Sample Prediction Output
-<img width="863" height="561" alt="image" src="https://github.com/user-attachments/assets/69b6e9f5-fc17-45ca-ba50-6348e413578e" />
-<img width="887" height="475" alt="image" src="https://github.com/user-attachments/assets/21f67831-d398-4342-b72f-bb7aa5f09af2" />
-<img width="859" height="487" alt="image" src="https://github.com/user-attachments/assets/fcce7fae-9d8b-49e4-91d7-37e34a7a5b24" />
-<img width="653" height="433" alt="image" src="https://github.com/user-attachments/assets/ab4c1376-7a15-49b4-ba0c-2d3c299997fe" />
+<img src="https://github.com/user-attachments/assets/69b6e9f5-fc17-45ca-ba50-6348e413578e" width="500"/>
+
+<img src="https://github.com/user-attachments/assets/21f67831-d398-4342-b72f-bb7aa5f09af2" width="500"/>
+
+<img src="https://github.com/user-attachments/assets/fcce7fae-9d8b-49e4-91d7-37e34a7a5b24" width="500"/>
+
+<img src="https://github.com/user-attachments/assets/ab4c1376-7a15-49b4-ba0c-2d3c299997fe" width="500"/>
 
 ## ⚙️ Tech Stack
 
