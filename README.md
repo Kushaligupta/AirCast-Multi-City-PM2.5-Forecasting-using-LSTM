@@ -48,8 +48,8 @@ AirCast is an end-to-end machine learning pipeline that:
 - Time-series structure prepared for LSTM input  
 
 📁 Dataset Access:  
-Due to GitHub size limits, the dataset is hosted externally:  
-👉 (Add your Google Drive / Kaggle link here)
+Due to GitHub size limits, the dataset is hosted externally: 
+https://drive.google.com/file/d/14gHe798D0oA34RJvUI-gAFzGdyES0Fm3/view?usp=sharing
 
 ---
 ## 🤖 Model Architecture
@@ -74,11 +74,10 @@ LSTM networks are specifically designed to:
 - Demonstrated strong generalization on unseen data  
 
 ### 📊 Evaluation Metrics
-*(Replace with your actual values)*
 
-- RMSE: XX  
-- MAE: XX  
-- R² Score: XX  
+- RMSE: 3.5365696953559866
+- MAE: 1.94146450068332 
+- R² Score: 0.9839843982219774 
 
 ---
 
@@ -91,7 +90,11 @@ LSTM networks are specifically designed to:
 ---
 
 ## 📌 Sample Prediction Output
-*(Optional: add screenshot here from your notebook)*
+<img width="863" height="561" alt="image" src="https://github.com/user-attachments/assets/69b6e9f5-fc17-45ca-ba50-6348e413578e" />
+<img width="887" height="475" alt="image" src="https://github.com/user-attachments/assets/21f67831-d398-4342-b72f-bb7aa5f09af2" />
+<img width="859" height="487" alt="image" src="https://github.com/user-attachments/assets/fcce7fae-9d8b-49e4-91d7-37e34a7a5b24" />
+<img width="653" height="433" alt="image" src="https://github.com/user-attachments/assets/ab4c1376-7a15-49b4-ba0c-2d3c299997fe" />
+
 ## ⚙️ Tech Stack
 
 | Category        | Tools & Technologies |
@@ -132,8 +135,7 @@ PM2.5 Forecasting
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/AirCast-Multi-City-PM2.5-Forecasting-using-LSTM.git
-cd AirCast-Multi-City-PM2.5-Forecasting-using-LST
+https://github.com/Kushaligupta/AirCast-Multi-City-PM2.5-Forecasting-using-LSTM.git
 ```
 
 ### 2️⃣ Install Dependencies
